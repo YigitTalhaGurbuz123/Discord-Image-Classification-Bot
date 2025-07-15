@@ -2,19 +2,27 @@ Discord Discord-Image-Classification-Bot!
 
 Botun özellikleri:
 --Discord botu olarak çalışır
+
 --Devreler hakkında bir .h5 dosyasını eğitilmiş makine olarak kullanır
+
 --Bu proje sizin devreleri anlamanız hakkında yardımcı olur
 
 Kullanım için gereken kütüphaneler ve sürümler:
 --python 3.10 gerekir yoksa çalışmaz
 --pip install discord
+
 --pip install tensorflow==2.14.0
+
 --pip install keras==2.14.0
+
 --pip install requests
+
 --pip install numpy==1.24.3
+
 --pip install Pillow
 
 Kullanım için gereken önemli not!
+
 --Bu botu kullanmak için bir vpn gerekir çünkü discord Türkiye'de kapalı. Sakın virüslü vpn indirmeyin!
 
 Discord Botu Oluşturma ve Ayarlama
