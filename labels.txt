@@ -1,0 +1,20 @@
+Arduino UNO
+Raspberry Pi
+Esp32
+Direnç
+Led
+Breadboard
+Transistör
+Entegre devre
+Motor sürücü
+Dc Motor
+Elektrolitik Kondansatör
+Seramik Kondansatör
+Servo Motor
+Ultrasonik Sensör
+OLED / TFT Ekran
+RTC Modülü (DS3231)
+Röle Modülü
+LDR 
+IR ALICI
+Potansiyometre
