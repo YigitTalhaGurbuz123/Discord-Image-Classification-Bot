@@ -1,6 +1,6 @@
-import discord
 from discord.ext import commands
 import os
+import discord
 from get_class import get_class  # Model fonksiyonunu içe aktar
 
 intents = discord.Intents.default()
@@ -25,13 +25,17 @@ async def yükle(ctx):
     for attachment in attachments:
         file_path = os.path.join(UPLOAD_FOLDER, attachment.filename)
         await attachment.save(file_path)
-        await ctx.send(f"✅ `{attachment.filename}` kaydedildi, model çalıştırılıyor...")
+        await ctx.send(f"✅ {attachment.filename} kaydedildi, model çalıştırılıyor...")
 
         try:
             result = get_class(MODEL_PATH, LABELS_PATH, file_path)
-            await ctx.send(f"🤖 Modelin tahmini: **{result}**")
+
+            if not result or result.strip() == "" or result.strip().lower() in ["unknown", "none"]:
+                await ctx.send("🤖 Üzgünüm, resimde neyin gösterildiğinden emin değilim.")
+            else:
+                await ctx.send(f"🤖 Modelin tahmini: **{result}**")
         except Exception as e:
-            await ctx.send(f"❌ Tahmin sırasında hata oluştu: `{e}`")
+            await ctx.send(f"❌ Tahmin sırasında hata oluştu: {e}")
 
 # Botu çalıştır
-bot.run("token")
+bot.run("Tokenişko")
