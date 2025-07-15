@@ -1,6 +1,7 @@
 Discord Discord-Image-Classification-Bot!
 
 Botun özellikleri:
+
 --Discord botu olarak çalışır
 
 --Devreler hakkında bir .h5 dosyasını eğitilmiş makine olarak kullanır
@@ -49,5 +50,6 @@ Discord Botu Oluşturma ve Ayarlama
    Bu tokeni main.py içindeki token yerine yazın ve Vpn yi açıp projeyi başlatın!
 
 **Lisans:**
+
 Bu proje MIT lisansı ile lisanslanmıştır.
 
