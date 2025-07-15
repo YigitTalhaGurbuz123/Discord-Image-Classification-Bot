@@ -1,2 +1,1 @@
-# Discord-Image-Classification-Bot
-Discord-Image-Classification-Bot
+Discord Devre Algılama Botu!!!!!!
