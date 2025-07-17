@@ -1,6 +1,6 @@
 Discord Discord-Image-Classification-Bot!
 
-Botun özellikleri:
+**Botun özellikleri:**
 
 --Discord botu olarak çalışır
 
@@ -8,8 +8,12 @@ Botun özellikleri:
 
 --Bu proje sizin devreleri anlamanız hakkında yardımcı olur
 
-Kullanım için gereken kütüphaneler ve sürümler:
+--Bot dosyadaki arızaları; örneğin yanlış tür, alakasız dosya vs algılayacak!
+
+**Kullanım için gereken kütüphaneler ve sürümler:**
+
 --python 3.10 gerekir yoksa çalışmaz
+
 --pip install discord
 
 --pip install tensorflow==2.14.0
@@ -22,11 +26,11 @@ Kullanım için gereken kütüphaneler ve sürümler:
 
 --pip install Pillow
 
-Kullanım için gereken önemli not!
+**Kullanım için gereken önemli not!**
 
 --Bu botu kullanmak için bir vpn gerekir çünkü discord Türkiye'de kapalı. Sakın virüslü vpn indirmeyin!
 
-Discord Botu Oluşturma ve Ayarlama
+**Discord Botu Oluşturma ve Ayarlama**
 
 1. **Discord Developer Portal’a girin:**  
    [https://discord.com/developers/applications](https://discord.com/developers/applications)
@@ -49,7 +53,11 @@ Discord Botu Oluşturma ve Ayarlama
 7. **Token ayarları:**
    Bu tokeni main.py içindeki token yerine yazın ve Vpn yi açıp projeyi başlatın!
 
-**Lisans:**
+8. **Yazı:**
+   Botu çalıştırmak için bota !yükle yazın ve eklerden fotoğrafı atıp deneyin!
 
-Bu proje MIT lisansı ile lisanslanmıştır.
+9. **Sonuuç:**
+   Bot bunun ne olduğu hakkında size cevap verecek!
+
+
 
