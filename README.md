@@ -61,9 +61,15 @@ Discord Discord-Image-Classification-Bot!
 
 **Bot ile ilgili görseller:**
 
+**Bot Çalışırken:**
+
 ![Bot  Çalışması:](Bot_Fotosu1.png)
 
+**Yanlış dosya algılama**
+
 ![Yanlış tür algılama:](Bot_Fotosu2.png)
+
+**Alakasız şey algılama**
 
 ![Alakasız şey algılama:](Bot_Fotosu3.png)
 
