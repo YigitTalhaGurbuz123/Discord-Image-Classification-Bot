@@ -1,6 +1,6 @@
 Discord Discord-Image-Classification-Bot!
 
-**Botun özellikleri:**
+## Botun özellikleri:
 
 --Discord botu olarak çalışır
 
@@ -10,7 +10,7 @@ Discord Discord-Image-Classification-Bot!
 
 --Bot dosyadaki arızaları; örneğin yanlış tür, alakasız dosya vs algılayacak!
 
-**Kullanım için gereken kütüphaneler ve sürümler:**
+## Kullanım için gereken kütüphaneler ve sürümler:
 
 --python 3.10 gerekir yoksa çalışmaz
 
@@ -26,11 +26,11 @@ Discord Discord-Image-Classification-Bot!
 
 --pip install Pillow
 
-**Kullanım için gereken önemli not!**
+## Kullanım için gereken önemli not!
 
 --Bu botu kullanmak için bir vpn gerekir çünkü discord Türkiye'de kapalı. Sakın virüslü vpn indirmeyin!
 
-**Discord Botu Oluşturma ve Ayarlama**
+## Discord Botu Oluşturma ve Ayarlama
 
 1. **Discord Developer Portal’a girin:**  
    [https://discord.com/developers/applications](https://discord.com/developers/applications)
@@ -59,7 +59,7 @@ Discord Discord-Image-Classification-Bot!
 9. **Sonuuç:**
    Bot bunun ne olduğu hakkında size cevap verecek!
 
-**Bot ile ilgili görseller:**
+## Bot ile ilgili görseller:
 
 **Bot Çalışırken:**
 
@@ -69,11 +69,11 @@ Discord Discord-Image-Classification-Bot!
 
 ![Yanlış tür algılama:](Bot_Fotosu2.png)
 
-## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
 **Alakasız şey algılama**
 
 ![Alakasız şey algılama:](Bot_Fotosu3.png)
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 
