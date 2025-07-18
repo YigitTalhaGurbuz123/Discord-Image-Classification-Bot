@@ -69,6 +69,9 @@ Discord Discord-Image-Classification-Bot!
 
 ![Yanlış tür algılama:](Bot_Fotosu2.png)
 
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
 **Alakasız şey algılama**
 
 ![Alakasız şey algılama:](Bot_Fotosu3.png)
