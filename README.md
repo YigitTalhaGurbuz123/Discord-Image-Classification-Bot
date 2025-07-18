@@ -61,14 +61,10 @@ Discord Discord-Image-Classification-Bot!
 
 **Bot ile ilgili görseller:**
 
-Çalışması:
-![Alt Text]([image link](https://github.com/YigitTalhaGurbuz123/Discord-Image-Classification-Bot/blob/main/images/Bot_Fotosu%20(1).png))
+![Bot  Çalışması:](Bot_Fotosu1.png)
 
-Dosya hatası algılama:
-![Alt Text]([image link](https://github.com/YigitTalhaGurbuz123/Discord-Image-Classification-Bot/blob/main/images/Bot_Fotosu%20(2).png))
+![Yanlış tür algılama:](Bot_Fotosu2.png)
 
-Alakasız fotoğraf algılama:
-![Alt Text]([image link](https://github.com/YigitTalhaGurbuz123/Discord-Image-Classification-Bot/blob/main/images/Bot_Fotosu%20(3).png))
-
+![Alakasız şey algılama:](Bot_Fotosu3.png)
 
 
